@@ -11,7 +11,7 @@ con VueJS.
 
 ## Requisitos
 
-Para poder ejecutar el proyecto es necesario tener instalado Python > 3.6 < 3.8. Además, es necesario instalar las
+Para poder ejecutar el proyecto es necesario tener instalado Python > 3.6 < 3.9. Además, es necesario instalar las
 siguientes librerías:
 
 * Tensorflow
