@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+build/
+*.spec
+docs/_build/
+.env/
+.venv/
+.pyvenv/
+.cache/
+coverage/
+.pytest_cache/
+
+uploads/
+
+*.idea/
+*.vscode/
